@@ -10,7 +10,7 @@
 
 	<groupId>com.github.kixalt</groupId>
 	<artifactId>lombok_ext</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>An utility library for lombok</description>
 	<packaging>jar</packaging>
