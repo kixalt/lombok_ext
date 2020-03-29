@@ -1,4 +1,4 @@
-package com.lombokext;
+package com.github.kixalt;
 
 public class StringUtils {
 

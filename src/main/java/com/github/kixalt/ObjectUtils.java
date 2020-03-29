@@ -1,4 +1,4 @@
-package com.lombokext;
+package com.github.kixalt;
 
 import java.util.List;
 
