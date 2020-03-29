@@ -52,7 +52,7 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/kixalt/lombok_ext.git</connection>
+		<connection>scm:git:git://github.com:kixalt/lombok_ext.git</connection>
 		<developerConnection>scm:git:git://github.com/kixalt/lombok_ext.git</developerConnection>
 		<url>https://github.com/kixalt/lombok_ext</url>
 	  <tag>lombok_ext-0.0.1</tag>
