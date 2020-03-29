@@ -1,4 +1,4 @@
-package com.lombokext.lang;
+package com.lombokext;
 
 import java.util.List;
 
